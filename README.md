@@ -66,7 +66,7 @@ business decisions.
 ### 🔹 Page 1 -- Category & Revenue Performance
 
 ![Category & Revenue Dashboard](<p align="center">
-  <img src="Page1_Dashboard.jpeg" width="850">
+  <img src=<img width="1280" height="704" alt="image" src="https://github.com/user-attachments/assets/5aece6f3-835b-482b-a98e-e4a50949ff2b" /> width="850">
 </p>)
 
 Key KPIs: - Total Revenue: ₹315.62K\
@@ -84,7 +84,7 @@ Visual Insights: - Revenue by Category (SUV highest contributor \~41%)\
 ### 🔹 Page 2 -- Ride Cancellation Analysis
 
 ![Cancellation Analysis Dashboard](<p align="center">
-  <img src="Page2_Dashboard.jpeg" width="850"><img width="1280" height="704" alt="image" src="https://github.com/user-attachments/assets/5aece6f3-835b-482b-a98e-e4a50949ff2b" />
+  <img src="Page2_Dashboard.jpeg" width="850">
 
 </p>)
 
