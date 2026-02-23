@@ -84,7 +84,8 @@ Visual Insights: - Revenue by Category (SUV highest contributor \~41%)\
 ### 🔹 Page 2 -- Ride Cancellation Analysis
 
 ![Cancellation Analysis Dashboard](<p align="center">
-  <img src="Page2_Dashboard.jpeg" width="850">
+  <img src="Page2_Dashboard.jpeg" width="850"><img width="1280" height="704" alt="image" src="https://github.com/user-attachments/assets/5aece6f3-835b-482b-a98e-e4a50949ff2b" />
+
 </p>)
 
 Key Insights: - Overall Cancellation Rate: 19.40%\
