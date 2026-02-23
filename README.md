@@ -65,7 +65,9 @@ business decisions.
 
 ### 🔹 Page 1 -- Category & Revenue Performance
 
-![Category & Revenue Dashboard](Page1_Dashboard.jpeg)
+![Category & Revenue Dashboard](<p align="center">
+  <img src="Page1_Dashboard.jpeg" width="850">
+</p>)
 
 Key KPIs: - Total Revenue: ₹315.62K\
 - Company Revenue: ₹78.90K\
@@ -81,7 +83,9 @@ Visual Insights: - Revenue by Category (SUV highest contributor \~41%)\
 
 ### 🔹 Page 2 -- Ride Cancellation Analysis
 
-![Cancellation Analysis Dashboard](Page2_Dashboard.jpeg)
+![Cancellation Analysis Dashboard](<p align="center">
+  <img src="Page2_Dashboard.jpeg" width="850">
+</p>)
 
 Key Insights: - Overall Cancellation Rate: 19.40%\
 - High traffic showed highest cancellation rate (\~20.68%)\
@@ -92,7 +96,9 @@ Key Insights: - Overall Cancellation Rate: 19.40%\
 
 ### 🔹 Page 3 -- Pricing & External Factor Impact
 
-![Pricing & External Factors Dashboard](Page3_Dashboard.jpeg)
+![Pricing & External Factors Dashboard](<p align="center">
+  <img src="Page3_Dashboard.jpeg" width="850">
+</p>)
 
 Key Insights: - Surge multiplier positively correlated with revenue\
 - Clear weather generated highest revenue contribution\
@@ -172,8 +178,4 @@ This solution enables:
 Kavya\
 Data Analytics Enthusiast
 
-------------------------------------------------------------------------
 
-⭐ Project Rating: 10/10 -- End-to-end analytics solution integrating
-SQL data engineering with interactive Power BI visualization and
-strategic business insights.
