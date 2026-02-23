@@ -66,7 +66,7 @@ business decisions.
 ### 🔹 Page 1 -- Category & Revenue Performance
 
 ![Category & Revenue Dashboard](<p align="center">
-  <img src=<img width="1280" height="704" alt="image" src="https://github.com/user-attachments/assets/5aece6f3-835b-482b-a98e-e4a50949ff2b" /> width="850">
+  <img width="1280" height="704" alt="image" src="https://github.com/user-attachments/assets/5aece6f3-835b-482b-a98e-e4a50949ff2b" /> 
 </p>)
 
 Key KPIs: - Total Revenue: ₹315.62K\
