@@ -65,9 +65,9 @@ business decisions.
 
 ### 🔹 Page 1 -- Category & Revenue Performance
 
-![Category & Revenue Dashboard](<p align="center">
+<p align="center">
   <img width="1280" height="704" alt="image" src="https://github.com/user-attachments/assets/5aece6f3-835b-482b-a98e-e4a50949ff2b" /> 
-</p>)
+</p>
 
 Key KPIs: - Total Revenue: ₹315.62K\
 - Company Revenue: ₹78.90K\
@@ -83,10 +83,9 @@ Visual Insights: - Revenue by Category (SUV highest contributor \~41%)\
 
 ### 🔹 Page 2 -- Ride Cancellation Analysis
 
-![Cancellation Analysis Dashboard](<p align="center">
-  <img src="Page2_Dashboard.jpeg" width="850">
-
-</p>)
+<p align="center">
+  <img width="1275" height="715" alt="image" src="https://github.com/user-attachments/assets/759c25e7-4a40-40ce-b2d3-846dc97a42d5" />
+</p>
 
 Key Insights: - Overall Cancellation Rate: 19.40%\
 - High traffic showed highest cancellation rate (\~20.68%)\
@@ -97,9 +96,9 @@ Key Insights: - Overall Cancellation Rate: 19.40%\
 
 ### 🔹 Page 3 -- Pricing & External Factor Impact
 
-![Pricing & External Factors Dashboard](<p align="center">
-  <img src="Page3_Dashboard.jpeg" width="850">
-</p>)
+<p align="center">
+ <img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/1b64be6d-baf8-4137-880d-f3fcf84cb361" />
+</p>
 
 Key Insights: - Surge multiplier positively correlated with revenue\
 - Clear weather generated highest revenue contribution\
