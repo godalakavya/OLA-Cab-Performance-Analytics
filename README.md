@@ -68,7 +68,6 @@ business decisions.
 <p align="center">
   <img width="1280" height="704" alt="image" src="https://github.com/user-attachments/assets/5aece6f3-835b-482b-a98e-e4a50949ff2b" /> 
 </p>
-
 ------------------------------------------------------------------------
 
 ###  Page 2 -- Ride Cancellation Analysis
@@ -76,8 +75,6 @@ business decisions.
 <p align="center">
   <img width="1275" height="715" alt="image" src="https://github.com/user-attachments/assets/759c25e7-4a40-40ce-b2d3-846dc97a42d5" />
 </p>
-
-
 ------------------------------------------------------------------------
 
 ###  Page 3 -- Pricing & External Factor Impact
@@ -85,7 +82,6 @@ business decisions.
 <p align="center">
  <img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/1b64be6d-baf8-4137-880d-f3fcf84cb361" />
 </p>
-
 ------------------------------------------------------------------------
 
 ##  Analytical Framework
@@ -157,6 +153,7 @@ This solution enables:
 ##  Author
 
 Kavya
+
 Data Analytics Enthusiast
 
 
